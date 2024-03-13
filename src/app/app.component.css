@@ -1,0 +1,18 @@
+  mat-toolbar{
+    background-color: green;
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  .buttons{
+    display: table;
+  }
+  .raised{
+    display: table-cell;
+    margin-left: 10px;
+  }
+  .raised .mat-mdc-button-base{
+    margin: 8px 8px 8px 0;
+  }
+  
+  
